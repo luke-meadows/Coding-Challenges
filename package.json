@@ -1,0 +1,19 @@
+{
+  "name": "code-challenges",
+  "version": "1.0.0",
+  "description": "",
+  "main": "closures.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/luke-meadows/Coding-Challenges.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/luke-meadows/Coding-Challenges/issues"
+  },
+  "homepage": "https://github.com/luke-meadows/Coding-Challenges#readme"
+}
