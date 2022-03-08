@@ -33,3 +33,10 @@ function calculateStringRotation(first, second) {
 
 const answer = calculateStringRotation('coffee', 'eecoff');
 console.log(answer);
+
+// TOP ANSWER:
+
+// function shiftedDiff(first, second) {
+//     if (first.length != second.length) return -1
+//     return (second + second).indexOf(first)
+//   }
