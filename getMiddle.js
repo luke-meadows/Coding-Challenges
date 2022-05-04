@@ -13,5 +13,3 @@ function getMiddle(str) {
     ? str[(str.length - 1) / 2]
     : `${str[str.length / 2 - 1]}${str[str.length / 2]}`;
 }
-
-console.log(getMiddle('middle'));
